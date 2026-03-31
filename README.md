@@ -1,10 +1,8 @@
 ---
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/Hseb2PqmAac4uS7KJtxo/
+metaLinks: {}
 ---
 
-# 株式資産管理 使用ガイド
+# 株式資産管理 利用ガイド
 
 > 対応バージョン：8.0 以上
 
