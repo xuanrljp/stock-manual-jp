@@ -11,7 +11,7 @@ metaLinks:
 
 1. 「アカウント」画面に移動し、右上の「＋」をタップして新しいアカウントを作成します。<br>
 2. アカウントタイプで「株式」を選択します。\
-   ![list](../.gitbook/assets/stock_account_tw.png)
+   ![list](../.gitbook/assets/stock_account_jp.png)
 3. アカウント名を入力します（例：日本株）。
 4. アカウントの通貨を選択します。
 
