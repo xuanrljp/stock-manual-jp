@@ -1,13 +1,13 @@
 # Table of contents
 
-* [株式資産管理 使用ガイド](README.md)
+* [株式資産管理 利用ガイド](README.md)
 
 ## Guides
 
 * [株式口座の作成](guides/jian-li-gu-piao-zhang-hu.md)
-* [保有株の追加](guides/xin-zeng-chi-gu.md)
+* [保有銘柄の追加](guides/xin-zeng-chi-gu.md)
 * [取引の記録（買い／売り／配当）](guides/ji-lu-jiao-yi-mai-ru-mai-chu-gu-li.md)
-* [機能のロック解除](guides/jie-suo-gong-neng.md)
+* [機能を利用できるようにする](guides/jie-suo-gong-neng.md)
 
 ## FAQ
 
